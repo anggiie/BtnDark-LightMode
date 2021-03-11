@@ -35,6 +35,15 @@ body {
     flex-direction: column;
     align-items: center;
 }
+.content .btn-toggle {
+    width: 200px;
+    height: 100px;
+    cursor: pointer;
+    margin: 2rem auto;
+    border: transparent;
+    color: var(--text-color);
+    font-weight: 700;
+}
 h2, p {
   color: var(--text-color);
 }
