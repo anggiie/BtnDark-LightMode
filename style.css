@@ -37,7 +37,7 @@ body {
 }
 .content .btn-toggle {
     max-width: 200px!important;
-    height: 100px;
+    height: 100px!important;
     cursor: pointer;
     margin: 2rem auto;
     border: transparent;
